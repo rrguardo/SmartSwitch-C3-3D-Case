@@ -2,6 +2,8 @@
 
 This repository contains the design files for a **simple and functional 3D-printable case** for the **SmartSwitch C3 Module**. The case is designed to be printed in just **two pieces**, making it easy to assemble while providing a clean and professional finish.
 
+![3D-Printable Case for SmartSwitch C3 Module](media/SmartSwitchC3.jpeg)
+
 ### Features:
 - **Front Panel**: Includes an opening for a 128x64 display, allowing easy access to critical information at a glance.
 - **Button Access**: Precise cutouts for the **manual switch**, **configuration button**, and **WiFi antenna**, ensuring full functionality without disassembling the case.
