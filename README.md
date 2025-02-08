@@ -1,6 +1,7 @@
 # 3D-Printable Case for SmartSwitch C3 Module
 
 This repository contains the design files for a **simple and functional 3D-printable case** for the **SmartSwitch C3 Module**. The case is designed to be printed in just **two pieces**, making it easy to assemble while providing a clean and professional finish.
+[SmartSwitch C3 Module at OSHWLAB](https://oshwlab.com/rrguardo83/automatic-water-pump-for-s1)
 
 ![3D-Printable Case for SmartSwitch C3 Module](media/SmartSwitchC3.jpeg)
 
